@@ -1,7 +1,7 @@
 ![Shivam Seth's-cover](./cover-image.png)
-
-## 🧔 About Me
 <hr>
+## 🧔 About Me
+
 
 - 🔭 I’m M.C.A student, Dr.Harisingh Gaur Sagar University
 
@@ -12,14 +12,17 @@
 - 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view)
 
 - ⚡️ Fun fact: I spend almost 20-22 hrs watching movie
-## ✍️ My Work
+
 <hr>
+
+## ✍️ My Work
+
 
 [![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05)
 
-### Here are some of my projects on Github that I am proud of:
-
 <hr>
+
+### Here are some of my projects on Github that I am proud of:
 
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=HomeInventory)](https://github.com/ShivamSeth05)
 
