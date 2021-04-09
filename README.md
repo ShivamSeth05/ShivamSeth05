@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Google's Code
 
-- 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/1eCSWt0-0itL-mcr_gVd7qiBoVK4SsMnv/view)
+- 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing)
 
 - ⚡️ Fun fact: I spend almost 20-22 hrs watching movie
 
