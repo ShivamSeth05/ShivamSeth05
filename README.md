@@ -18,7 +18,7 @@
 ## ✍️ My Work
 
 
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05)
+[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05/ShivamSeth05/)
 
 <hr>
 
