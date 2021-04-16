@@ -15,10 +15,17 @@
 
 <hr>
 
+![](https://visitor-badge.glitch.me/badge?page_id=ShivamSeth05.ShivamSeth05)
+
+<hr>
+
+
 ## ✍️ My Work
 
-
-[![Jaagrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05/ShivamSeth05/)
+<!--
+[![Shivam Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05/ShivamSeth05/)
+-->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=gotham" alt="ShivamSeth05" />
 
 <hr>
 
