@@ -31,11 +31,7 @@
 
 ### Here are some of my projects on Github that I am proud of:
 
-[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=Tourism_Management_System)](https://github.com/ShivamSeth05/Tourism_Management_System.git)
-
-[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=HomeInventory)](https://github.com/ShivamSeth05/HomeInventory.git)
-
-
+[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=Tourism_Management_System)](https://github.com/ShivamSeth05/Tourism_Management_System.git)[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=HomeInventory)](https://github.com/ShivamSeth05/HomeInventory.git)
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=LoanAssistant)](https://github.com/ShivamSeth05/LoanAssistant.git)
 ## 📚 My Skills
 
