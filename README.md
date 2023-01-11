@@ -22,9 +22,9 @@ _![Shivam Seth's-cover](./cover-image.png)
 
 ## ✍️ My Work
 
-<!--
+
 [![Shivam Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05/ShivamSeth05/)
--->
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=gotham" alt="ShivamSeth05" />
 
 <hr>
