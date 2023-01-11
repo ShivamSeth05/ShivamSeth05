@@ -1,4 +1,4 @@
-![Shivam Seth's-cover](./cover-image.png)
+_![Shivam Seth's-cover](./cover-image.png)
 <hr>
 ## 🧔 About Me
 
@@ -73,3 +73,4 @@ Here are some ideas to get you started:
 -->
 
 
+_
