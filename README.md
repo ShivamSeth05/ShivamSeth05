@@ -25,13 +25,14 @@ _![Shivam Seth's-cover](./cover-image.png)
 
 [![Shivam Seth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=dark)](https://github.com/ShivamSeth05/ShivamSeth05/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=gotham" alt="ShivamSeth05" />
-
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShivamSeth05&show_icons=true&theme=gotham" alt="ShivamSeth05" />
+-->
 <hr>
 
-### Here are some of my projects on Github that I am proud of:
+## Here are some of my projects on Github that I am proud of:
 
-[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=Tourism_Management_System)](https://github.com/ShivamSeth05/Tourism_Management_System.git)[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=HomeInventory)](https://github.com/ShivamSeth05/HomeInventory.git)
+[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=Tourism_Management_System)]
+(https://https://github.com/ShivamSeth05/Tourism_Management_System)[![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=HomeInventory)](https://github.com/ShivamSeth05/HomeInventory.git)
 [![CodeX](https://github-readme-stats.vercel.app/api/pin/?username=ShivamSeth05&repo=LoanAssistant)](https://github.com/ShivamSeth05/LoanAssistant.git)
 ## 📚 My Skills
 
