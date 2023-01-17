@@ -11,7 +11,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/1zTOJ0iuauyToFjV8mKdLdb-R3baVlsx2/view?usp=sharing)
 
-- ⚡️ Fun fact: I spend almost 20-22 hrs watching movie
+- ⚡️ Fun fact: 😜😉
 
 <hr>
 
