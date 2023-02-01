@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Google's Code
 
-- 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/1zTOJ0iuauyToFjV8mKdLdb-R3baVlsx2/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/19USoTM_YAVK2jK4b_QRm1lFLcmXr6PfF/view?usp=sharing](https://drive.google.com/file/d/1vB8QgmciYHels1Z4C2-e6MxtLCcQ66cd/view?usp=sharing)
 
 - ⚡️ Fun fact: 😜😉
 
